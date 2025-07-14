@@ -58,4 +58,4 @@ for i, config_folder in enumerate(config_folders):
 plt.tight_layout()
 plt.show()
 
-print('All configurations displayed in grid layout!') 
+print('All configurations displayed in grid layout!')
